@@ -1,4 +1,4 @@
-### Hello there!
+# Hello there!
 
 I'm Day (not really, but you can call me that). I'm currently a fourth-year computer science student at the University of St Andrews. I'm interested in using computer science for storytelling and interactive education purposes. For instance, you can check out some of my favourite facts [here](https://daytrick.github.io/fun_facts/fun_facts.html).
 

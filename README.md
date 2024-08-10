@@ -4,6 +4,11 @@ I'm Day (not really, but you can call me that). I'm currently a fourth-year comp
 
 When I'm not coding, I'll probably be drawing, animating, or writing murder mysteries.
 
+
+## Online Course Completions
+
+<a href="https://academy.yoast.com/certificate/2558/1766726/786542d40f61fce581fb1bb98d9507d2/1/" target="_blank"><img src="https://academy.yoast.com/badge/2558/1766726/786542d40f61fce581fb1bb98d9507d2/1/" width="200" alt=" successfully completed the SEO for beginners course!"/></a>
+
 <!--
 **daytrick/daytrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
